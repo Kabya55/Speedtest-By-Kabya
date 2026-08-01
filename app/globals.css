@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  color: #F8FAFC;
+  background: #0d0421;
+  background-image: 
+    radial-gradient(at 75% 25%, rgba(109, 40, 217, 0.3) 0px, transparent 50%),
+    radial-gradient(at 25% 75%, rgba(30, 27, 75, 0.5) 0px, transparent 50%),
+    radial-gradient(at 50% 50%, rgba(13, 4, 33, 0.98) 0px, transparent 100%);
+  background-attachment: fixed;
+  font-family: var(--font-sans);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Glassmorphism Cards matching Dribbble NetSpeed */
+.glass-card {
+  background: rgba(21, 9, 54, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 10px 32px 0 rgba(0, 0, 0, 0.45);
+}
+
+.glass-card-hover {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-card-hover:hover {
+  transform: translateY(-2px);
+  border-color: rgba(255, 85, 0, 0.4);
+  box-shadow: 0 12px 40px 0 rgba(0, 0, 0, 0.6), 0 0 25px rgba(255, 85, 0, 0.2);
+}
+
+/* Dribbble Orange Button Style */
+.dribbble-orange-btn {
+  background: linear-gradient(180deg, #FF6600 0%, #EE3600 100%);
+  box-shadow: 0 10px 30px rgba(238, 54, 0, 0.45);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  transition: all 0.25s ease;
+}
+
+.dribbble-orange-btn:hover:not(:disabled) {
+  background: linear-gradient(180deg, #FF771A 0%, #F5400A 100%);
+  box-shadow: 0 14px 40px rgba(238, 54, 0, 0.65);
+  transform: scale(1.02);
+}
+
+.dribbble-orange-btn:active:not(:disabled) {
+  transform: scale(0.98);
+}
+
+/* Gauge Needle Transition */
+.gauge-needle {
+  transition: transform 0.25s cubic-bezier(0.25, 0.1, 0.25, 1);
+  transform-origin: 150px 150px;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(13, 4, 33, 0.8);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(91, 74, 138, 0.6);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(121, 100, 178, 0.9);
+}
