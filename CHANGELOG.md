@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-08-07
-feat: add download speed chart
+Update: 2026-08-08
+fix: handle network timeout gracefully
 
