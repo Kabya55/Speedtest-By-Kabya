@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-08-08
-fix: handle network timeout gracefully
+Update: 2026-08-09
+style: enhance speedometer animation
 
