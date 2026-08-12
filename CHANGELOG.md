@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-08-11
-fix: improve upload speed calculation
+Update: 2026-08-12
+refactor: modularize API routes
 
