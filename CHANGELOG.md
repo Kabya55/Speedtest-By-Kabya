@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-08-13
-style: dark mode improvements
+Update: 2026-08-14
+feat: add history table pagination
 
