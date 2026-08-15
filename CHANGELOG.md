@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-08-14
-feat: add history table pagination
+Update: 2026-08-15
+fix: mobile responsiveness fixes
 
