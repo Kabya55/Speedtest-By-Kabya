@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-08-19
-style: glassmorphism card effects
+Update: 2026-08-20
+refactor: extract speed utilities
 
