@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-08-30
-docs: update component docs
+Update: 2026-08-31
+refactor: server selector optimization
 
