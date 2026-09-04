@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-09-03
-style: update UI components
+Update: 2026-09-04
+docs: update README with usage guide
 
