@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-09-04
-docs: update README with usage guide
+Update: 2026-09-05
+refactor: clean up speedtest logic
 
