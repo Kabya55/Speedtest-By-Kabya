@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-09-05
-refactor: clean up speedtest logic
+Update: 2026-09-06
+feat: add download speed chart
 
