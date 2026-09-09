@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-09-08
-style: enhance speedometer animation
+Update: 2026-09-09
+feat: add ISP info display
 
