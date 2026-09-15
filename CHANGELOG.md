@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-09-14
-fix: mobile responsiveness fixes
+Update: 2026-09-15
+docs: add API documentation
 
