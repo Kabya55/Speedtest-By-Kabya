@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-09-16
-feat: add server selection modal
+Update: 2026-09-17
+fix: latency display precision
 
