@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-09-19
-refactor: extract speed utilities
+Update: 2026-09-20
+feat: add quality badge system
 
