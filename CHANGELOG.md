@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-09-21
-fix: correct IP detection for IPv6
+Update: 2026-09-22
+style: improve header gradient
 
