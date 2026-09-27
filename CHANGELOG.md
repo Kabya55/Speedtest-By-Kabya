@@ -1,5 +1,5 @@
 ﻿# Speedtest By Kabya
 
-Update: 2026-09-26
-style: button hover effects
+Update: 2026-09-27
+feat: add connection quality indicator
 
