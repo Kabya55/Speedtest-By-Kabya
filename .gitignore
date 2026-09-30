@@ -10,3 +10,7 @@ yarn-error.log*
 *.pem
 out/
 dist/
+
+# Utility scripts
+backdate_commits.ps1
+commit_log.txt
